@@ -30,8 +30,8 @@ Parameters:
 
 Mappings:
   RegionMap:
-    us-east-1:
-      AMI: ami-0922553b7b0369273
+    us-east-2:
+      AMI: ami-0de7daa7385332688
 
 Resources:
   EC2Instance:
